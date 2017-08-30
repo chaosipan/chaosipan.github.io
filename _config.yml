@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Moorez 
+title: Super pan 的博客
 subtitle:    
 description: Road endless its long and far, I will seek up and down！ 
-author: shenzekun  
+author: Super pan 
 language: zh-Hans
 timezone:
 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://www.chaosi.org   
+url: http://blog.chaosi.org   
 root: /
 permalink: :title.html 
 permalink_defaults:
