@@ -10,5 +10,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: http://www.shenzekun.cn/sitemap.xml
-Sitemap: http://www.shenzekun.cn/baidusitemap.xml
+Sitemap: http://superpan.cn/sitemap.xml
+Sitemap: http://superpan.cn/baidusitemap.xml
