@@ -15,7 +15,7 @@ timezone:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://blog.chaosi.org   
 root: /
-permalink: :title.html 
+permalink: :year/:month/:title/
 permalink_defaults:
 
 # Directory
@@ -75,16 +75,11 @@ deploy:
 - type: baidu_url_submitter
 
 
-
-
-
-
 search:
   path: search.xml
   field: post
   format: html
   limit: 10000
-
 
 
 avatar: https://dn-chaosi.qbox.me/blog/huowu.jpg
@@ -100,8 +95,6 @@ baidusitemap:
     path: baidusitemap.xml
 
 
-
-
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 plugins: hexo-generate-feed
@@ -111,4 +104,5 @@ baidu_url_submit:
   host: superpan.cn ## 在百度站长平台中注册的域名
   token: N2ADxv8c2YsN7MQv ## 请注意这是您的秘钥， 请不要发布在公众仓库里!
   path: baidu_urls.txt ## 文本文档的地址， 新链接会保存在此文本文档里
+
 
