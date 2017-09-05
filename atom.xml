@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Super pan 的博客</title>
-  
+  <title>Super pan 的 博客</title>
+  <subtitle>Develop for happiness</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.chaosi.org/"/>
